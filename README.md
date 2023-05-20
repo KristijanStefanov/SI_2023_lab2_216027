@@ -1,9 +1,9 @@
-<pre><code>```
+<pre><code>
 Kristijan Stefanov 216027 
 
 3.цикломатската комплексност = број на ребра - број на јазли + 2 = 38-29+2 = 11
 
-4.Every bracnh   User=0,List[..] | User(Kiko,em=stekiko@yahoo.com,finki123),List[Kiko,Ste,..] | User(0,em=stekikoyahoo.com,fnki1),List[Kiko,..] |  User                                                                                                                     (Kiko,em=stekiko@yahoo.com,finki123_),List[Kiko,Ste,..]
+4.Every bracnh   User=0,List[..] | User(Kiko,em=stekiko@yahoo.com,finki123),List[Kiko,Ste,..] | User(0,em=stekikoyahoo.com,fnki1),List[Kiko,..] |  User(Kiko,em=stekiko@yahoo.com,finki123_),List[Kiko,Ste,..]
     
 1,2 - 3                    *                                                                                            
 3 - 28                     *
@@ -64,4 +64,4 @@ User(0,1,1)
 User(1,0,0)
 User(1,0,1)
 User(1,1,0)
- ```</code></pre>
+</code></pre>
